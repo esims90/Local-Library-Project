@@ -1,17 +1,13 @@
-function getTotalBooksCount(books) {
-  let results = 0
-  for (let i = 0; i < books.length; i++){
-    results++
-  }
-  return results
+function getTotalBooksCount(books) {  
+  let total = books.reduce(book => {
+    return book + 1}, 0);
+  return total
 }
 
 function getTotalAccountsCount(accounts) {
-  let results = 0
-  for (let i = 0; i < accounts.length; i++){
-    results++
-  }
-  return results
+  let total = accounts.reduce(account => {
+    return account + 1}, 0);
+  return total  
 }
 
 
