@@ -8,7 +8,7 @@ function getTotalAccountsCount(accounts) {
   let total = accounts.reduce(account => {
     return account + 1}, 0);
   return total  
-}
+} 
 
 
 function getBooksBorrowedCount(books) {
