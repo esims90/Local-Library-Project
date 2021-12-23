@@ -1,5 +1,6 @@
-function getTotalBooksCount(books) {  
-  let total = books.reduce(book => {
+
+function getTotalBooksCount(books) {
+ let total = books.reduce(book => {
     return book + 1}, 0);
   return total
 }
