@@ -1,6 +1,6 @@
 # Local Library App
 ## Project Description
-This app allows user to sort through and track local library of data. Using what you javascript, design and create an app that can show users all the books in the database, which books are available, which books are unavailable and other general information about the books and user.
+This app allows user to sort through and track local library of data. Using your understanding of javascript, design and create an app that can show users all the books in the database, which books are available, which books are unavailable and other general information about the books and user.
 
 ## Screenshots
 
