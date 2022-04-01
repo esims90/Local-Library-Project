@@ -1,6 +1,8 @@
 # Local Library App
 ## Project Description
+This app 
 
+## Learning Objectives
 This project is designed to test your ability to work with large datasets and build algorithms based on those datasets. You will not need to make any edits to HTML or CSS for this project. Before taking on this project, you should be comfortable with the learning objectives listed below:
 
 - Using Visual Studio Code as a text editor
