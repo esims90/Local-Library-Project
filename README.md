@@ -20,4 +20,6 @@ This project is designed to test your ability to work with large datasets and bu
 - Using reduce() to solve different problems
 - Using sort() to sort arrays in various ways
 
-
+## Technology
+### Built with:
+- JavaScript
